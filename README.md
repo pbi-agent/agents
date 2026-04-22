@@ -1,6 +1,6 @@
 # pbi-agent Agents Repository
 
-This repository is the official agents catalog for `pbi-agent`.
+This repository is the official agents catalog for [pbi-agent](https://github.com/pbi-agent/pbi-agent).
 
 Repository: [https://github.com/pbi-agent/agents](https://github.com/pbi-agent/agents)
 
