@@ -12,3 +12,6 @@ live under `agents/` as Markdown files; each file must define `name` and
 ## Current Agent Catalog
 
 - `agents/code-reviewer.md`: concise code review sub-agent for correctness, regressions, and test coverage
+- `agents/explorer.md`: focused codebase and workspace exploration sub-agent for gathering initial context
+- `agents/planner.md`: concise task planning sub-agent that produces implementation-ready plans
+- `agents/worker.md`: task execution sub-agent that implements plans and reports progress
